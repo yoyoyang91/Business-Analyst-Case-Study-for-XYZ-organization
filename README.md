@@ -112,6 +112,7 @@ Registration/ Matching Requirements
 
 
 ### Current AS IS workflow diagram
+![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/business%20process%20diagram%20folder/AS-IS%20workflow%20diagram.png?raw=true)
 
 ### Future TO BE workflow diagram
 **The TO-BE business process diagram:**
