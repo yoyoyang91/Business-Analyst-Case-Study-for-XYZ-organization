@@ -5,10 +5,10 @@ Invloing in a BA role to craft a software development case for a non-profit, U.S
 The overall business reuirements is discussed, and one of the change processes is selected to be demontrated in this case study
 #### Table of content
 
-- [Background](#heading)
-  * [Company overview](#sub-heading)
-  * [Business challenges](#sub-heading)
-  * [Client's needs](#sub-heading)
+- [Background](#background)
+  * [Company overview](#company-overview)
+  * [Business challenges](#business-challenges)
+  * [Business needs](#business-needs)
     
 - [Business requirements generation](#heading-1)
   * [Company background summary](#sub-heading-1)
@@ -20,11 +20,11 @@ The overall business reuirements is discussed, and one of the change processes i
   * [Current (AS-IS) workflow diagram](#sub-heading-2)
   * [Future state (TO- BE) workflow diagram](#sub-heading-2)
 
-- [Business rules & Functional requirements (Waterfall)](#heading-3)
+- [Business rules and Functional requirements (Waterfall)](#heading-3)
   * [Business rules](#sub-heading-3)
   * [Functional requirements](#sub-heading-3)
 
-- [User persona & User Story & Acceptance Criteria](#heading-4)
+- [User persona and User Story & Acceptance Criteria](#heading-4)
   * [Happy path](#sub-heading-4)
   * [alternative flows](#sub-heading-4)
    
@@ -44,7 +44,7 @@ The overall business reuirements is discussed, and one of the change processes i
 
 The client is facing an efficiency gap with the current system which requires arduous data entry and does not efficiently manage the different data sets. The end-users using the application do not want to use the current system and are looking for a well-designed new application with ease in usage. The internal staffs using the system are not very tech-savvy as well.  
 
-### Client's needs
+### Business needs
 
 The client needs cost-effective, robust and reliable software that could provide an effective solution for managing old age people, volunteers and social workers, departments, and programs. The client also wants the new system to generate reports (tracking activities) for senior management which will optimize analysis and strategies leading to better decision making.
 
