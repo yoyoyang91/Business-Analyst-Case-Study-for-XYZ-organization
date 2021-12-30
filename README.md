@@ -20,13 +20,13 @@ The overall business reuirements is discussed, and one of the change processes i
   * [Current AS IS workflow diagram](#current-as-is-workflow-diagram)
   * [Future state TO BE workflow diagram](#future-state-to-be-workflow-diagram)
 
-- [Business rules and Functional requirements (Waterfall)](#heading-3)
-  * [Business rules](#sub-heading-3)
-  * [Functional requirements](#sub-heading-3)
+- [Business rules and Functional requirements-Waterfall](#business-rules-and-functional-requirements-waterfall)
+  * [Business rules](business-rules)
+  * [Functional requirements](#functional-requirements)
 
-- [User persona and User Story & Acceptance Criteria](#heading-4)
-  * [Happy path](#sub-heading-4)
-  * [alternative flows](#sub-heading-4)
+- [User persona, User Story, Acceptance Criteria-Agile](#user-persona-user-story-acceptance-criteria-agile)
+  * [Happy path](#happy-path)
+  * [alternative flows](#alternative-flows)
    
 
 
@@ -114,26 +114,49 @@ Registration/ Matching Requirements
 ### Current AS IS workflow diagram
 ![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/business%20process%20diagram%20folder/AS-IS%20workflow%20diagram.png?raw=true)
 
-### Future TO BE workflow diagram
+### Future state TO BE workflow diagram
 **The TO-BE business process diagram:**
 
 The registration process applies to all participants of the XYZ Organization including the senior citizens, volunteers and social workers. The registration process allows XYZ organization the ability to validate and ensure the right participants are involved in the XYZ organization. Registration process differ for Senior Citizens and Volunteers/Social workers such that there are a lot more regulatory guidelines for individuals who are taking care of/supporting senior citizens and therefore, the following processes are outlined for registration for both senior citizens as well as Volunteers/Social workers.
 
 
-## Heading
+| Senior Citizens | Volunteers/Social Workers |
+| --- | --- |
+| Answering qualifying questions | Answering qualifying questions |
+| Fill out the registration form | Fill out the registration form |
+| On-boarding process | Complete criminal background check |
+| Matching process | Complete Drug test |
+|  | On-boarding process |
+|  | Matching process |
 
-This is an h1 heading
 
-### Sub-heading
 
-This is an h2 heading
+![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/business%20process%20diagram%20folder/TO-BE%20workflow%20diagram.png?raw=true)
 
-## Heading
+## Business rules and Functional requirements-Waterfall
 
-This is an h1 heading
 
-### Sub-heading
+### Business rules
 
-This is an h2 heading
+(MUST HAVE)
+- Requirement for senior citizens = 65-year-old or above, US citizen or Permanent Resident
+- The background check includes (1) criminal background check and (2) a drug test
+- Volunteers and Social Workers must pass a background check prior to the application getting approved
+- Volunteers/Social workers must be at least 18 years old in age
+- Volunteers/Social workers must have a valid drivers license + personal mode of transportation
 
+### Functional requirements
+
+- The registration page shall have a form to capture complete information for applicant applying to be volunteer/social worker for the XYZ organization
+- The system must allow a process for volunteers and social workers to pass background check prior to application getting approved
+- The system must request all applicants qualifying question to validate basic requirements for participation: Senior citizens = 65+ years old, US citizen or Permanent Resident. Volunteers and Social Workers = 18+  years old, Valid Drivers License, No criminal background, No Drugs
+- The system shall communicate approval or rejection of application(social workers/volunteers) via email or app push notification within 48 hours of background check + drug test
+
+## User persona, User Story, Acceptance Criteria-Agile
+
+
+### Happy path
+
+
+### Alternative flows
 
