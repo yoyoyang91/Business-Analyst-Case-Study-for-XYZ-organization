@@ -10,15 +10,15 @@ The overall business reuirements is discussed, and one of the change processes i
   * [Business challenges](#business-challenges)
   * [Business needs](#business-needs)
     
-- [Business requirements generation](#heading-1)
-  * [Company background summary](#sub-heading-1)
-  * [Assumptions](#sub-heading-1)
-  * [Overall business requirements](#sub-heading-1)
-  * [Seleted process (Registration/Matching) requirements](#sub-heading-1)
+- [Business requirements generation](#business-requirements-generation)
+  * [Company background summary](#company-background-summary)
+  * [Assumptions](#assumptions)
+  * [Overall business requirements](#overall-business-requirements)
+  * [Seleted process requirements](#seleted-process-requirements)
    
-- [Business process diagram](#heading-2)
-  * [Current (AS-IS) workflow diagram](#sub-heading-2)
-  * [Future state (TO- BE) workflow diagram](#sub-heading-2)
+- [Business process diagram](#business-process-diagram)
+  * [Current AS IS workflow diagram](#current-as-is-workflow-diagram)
+  * [Future state TO BE workflow diagram](#future-state-to-be-workflow-diagram)
 
 - [Business rules and Functional requirements (Waterfall)](#heading-3)
   * [Business rules](#sub-heading-3)
@@ -50,22 +50,74 @@ The client needs cost-effective, robust and reliable software that could provide
 
 
 
+## Business requirements generation
 
-## Heading
 
-This is an h1 heading
+### Company background summary
 
-### Sub-heading
+About XYZ non-profit organization:
 
-This is an h2 heading
+- U.S. Based non-profit organization serving old age people worldwide to alleviate social isolation
+- The organization also has a pool of volunteers and social workers across the globe associated via various outreach program
+- Goal:  The client wants to develop a modern, robust, and responsive software solution that will help the internal staff to manage the associated old age people and volunteer/social worker activities program wise which includes their onboarding into the organization, their eligibility to participate or contribute which is program-specific.
 
-## Heading
+### Assumptions
 
-This is an h1 heading
+The current system is not web-based or centralized
 
-### Sub-heading
+Data is entered manually by end-users 
 
-This is an h2 heading
+- People Registered (Customers)
+- Volunteers
+- Social workers
+- Programs
+
+Programs/Events are published via postal mail
+
+Volunteers/social workers only provide the service of transport to local programs
+
+### Overall business requirements
+
+**1. Registration / Matching local for Volunteers & Social workers(Seletecd process in the following sections)**
+
+2. Easier mode of communication for all end-users (Customers, Volunteers, Social workers)
+- Email
+- Online Portal / Notifications
+- Push Notifications  via App
+3. Easy interface for customers to register with the organization via web
+- Automated process to avoid manual data entry
+4. The registration process for volunteers and social workers requires background verification 
+5. Synced calendar for cancelations/ updates for customers, volunteers, and social worker 
+6. Reporting ability for sr. management
+
+### Seleted process requirements
+Registration/ Matching Requirements 
+
+- Registration for volunteers/ social workers/ senior citizens is available online (website/ mobile app)
+- The main office of XYZ Organization has workstations available to fill out the application online (for volunteers/ social workers/ senior citizens)
+- XYZ has Alexa Voice system to intake application via phone and provide general information
+- Volunteers and Social Workers must pass a background check prior to the application getting approved
+- Once the application for Volunteers/Social workers is approved, only then can they be matched with senior citizens within a 20-mile radius
+- The background check includes (1) criminal background check and (2) a drug test
+- Approval/ Rejections of application is communication via email or app push update for Volunteers & Social workers
+- Requirement for senior citizens = 65-year-old or above, US citizen or Permanent Resident
+- Once volunteers/Social workers is approved, they can be matched with up to 5 times a month
+- All matches take place on the 1st Monday of a given month; Volunteers & Social workers have to provide confirmation via email or app by the 2nd Monday of a given month
+- Volunteers/Social workers must be at least 18 years old in age
+- Volunteers/Social workers must have a valid drivers license + personal mode of transportation
+- Volunteers/Social workers must complete 10 hours of online training prior to matching
+
+
+## Business process diagram
+
+
+### Current AS IS workflow diagram
+
+### Future TO BE workflow diagram
+**The TO-BE business process diagram:**
+
+The registration process applies to all participants of the XYZ Organization including the senior citizens, volunteers and social workers. The registration process allows XYZ organization the ability to validate and ensure the right participants are involved in the XYZ organization. Registration process differ for Senior Citizens and Volunteers/Social workers such that there are a lot more regulatory guidelines for individuals who are taking care of/supporting senior citizens and therefore, the following processes are outlined for registration for both senior citizens as well as Volunteers/Social workers.
+
 
 ## Heading
 
