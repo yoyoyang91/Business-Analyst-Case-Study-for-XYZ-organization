@@ -157,6 +157,14 @@ The registration process applies to all participants of the XYZ Organization inc
 
 ### Happy path
 
+#### Suzzie (Sr. Citizen)
+![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/User%20personas%20%26%20User%20Stories/Suzzie_Sr.Citizen.png?raw=true)
+
+#### Emily (Social worker)
+![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/User%20personas%20%26%20User%20Stories/Emily_social%20worker.png?raw=ture)
+
+#### Peter (Volunteer)
+![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/User%20personas%20%26%20User%20Stories/Peter_volunteer.png?raw=ture)
 
 ### Alternative flows
 
