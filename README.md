@@ -2,7 +2,8 @@
 
 ### Case study overview: 
 Invloing in a BA role to craft a software development case for a non-profit, U.S. based organization.
-The overall business reuirements is discussed, and one of the change processes is selected to be demontrated in this case study
+
+The overall business reuirements is discussed, and one of the business processes (User registration & matching) is selected to be demontrated in this case study
 #### Table of content
 
 - [Background](#background)
@@ -26,7 +27,7 @@ The overall business reuirements is discussed, and one of the change processes i
 
 - [User persona, User Story, Acceptance Criteria-Agile](#user-persona-user-story-acceptance-criteria-agile)
   * [Happy path](#happy-path)
-  * [alternative flows](#alternative-flows)
+  * [Alternative flows](#alternative-flows)
    
 
 
