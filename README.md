@@ -161,51 +161,54 @@ The registration process applies to all participants of the XYZ Organization inc
 #### Suzzie (Sr. Citizen)
 ![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/User%20personas%20%26%20User%20Stories/Suzzie_Sr.Citizen.png?raw=true)
 
-Scenario: Phone call notification
+**Scenario:** Phone call notification
 
-Given: I am a Sr. Citizen who signed up successfully 
+  **Given:** I am a Sr. Citizen who signed up successfully 
 
-And: I have my phone number recorded in the system
+  **And:** I have my phone number recorded in the system
 
-And: I choose to have phone call notification at the preference setting 
+  **And:** I choose to have phone call notification at the preference setting 
 
-When: There are new events updated in the system
+  **When:** There are new events updated in the system
 
-And: new events located close to where I live within 20 miles radius
+  **And:** new events located close to where I live within 20 miles radius
 
-Then: I should receive a phone call notification during the organization working hours
+  **Then:** I should receive a phone call notification during the organization working hours
 
 #### Emily (Social worker)
 ![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/User%20personas%20%26%20User%20Stories/Emily_social%20worker.png?raw=ture)
 
-Scenario: Background check status update
+**Scenario:** Background check status update
 
-Given: I am a social worker who are signing up
+  **Given:** I am a social worker who are signing up
 
-And: I uploaded the required  information/documents for two rounds of background check through web/app
+  **And:** I uploaded the required  information/documents for two rounds of background check through web/app
 
-When: I passed both checks
+  **When:** I passed both checks
 
-Then: I should receive an email or app push up notification of the result
+  **Then:** I should receive an email or app push up notification of the result
 
-And: I should can start my on-boarding process
+  **And:** I should can start my on-boarding process
 
 #### Peter (Volunteer)
 ![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/User%20personas%20%26%20User%20Stories/Peter_volunteer.png?raw=ture)
 
 
-Scenario: Viewing history participation record 
+**Scenario:** Viewing history participation record 
 
-Given: I am a volunteer who signed up
+  **Given:** I am a volunteer who signed up
 
-And: I browse “My programs” feature under my profile
+  **And:** I browse “My programs” feature under my profile
 
-When: I click on the “History” tab
+  **When:** I click on the “History” tab
 
-Then: I should see all the historical record of the programs I attended from latest to the oldest
+  **Then:** I should see all the historical record of the programs I attended from latest to the oldest
 
 
 ### Alternative flows
+
+#### Peter (High school student)
+
 ![alt text](https://github.com/yoyoyang91/Business-Analyst-Case-Study-for-XYZ-organization/blob/main/User%20personas%20%26%20User%20Stories/Joe_high%20school%20student.png?raw=ture)
 
 
